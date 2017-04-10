@@ -4,7 +4,7 @@
 
 ## Description
 
-Video Player is the tenth of thirty projects in the [JavaScript30](https://javascript30.com/) series.
+Video Player is the eleventh of thirty projects in the [JavaScript30](https://javascript30.com/) series.
 
 ## Installation
 
